@@ -1,15 +1,20 @@
+## Screenshots
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Screenshots</h1>
+    <table>
+        <tr>
+            <td>
+                <img src="https://github.com/Obvinous/Login-page/assets/140268164/fb349110-af66-4245-9458-942cfd557129" 
+         width="280" height="600">
+            </td>
+            <td>
+               <img src="https://github.com/Obvinous/Login-page/assets/140268164/de2e76f7-13b2-40e8-b259-2d962017c77e" 
+         width="280" height="600">
+            </td>
+               </tr>    
+      </table>
+</body>
+</html>
